@@ -1,0 +1,11 @@
+{
+	"comment": "",
+	"ignore": "",
+	"package": [
+		{
+			"path": "github.com/sgtest/go-vendored-lib/hi",
+			"revision": "f5d72a23bea176ff7b295516d32fb09a0b2d4db5",
+			"revisionTime": "2016-04-07T15:53:32-07:00"
+		}
+	]
+}

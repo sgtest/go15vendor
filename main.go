@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
+	"github.com/sgtest/go-vendored-lib/hi"
 	"github.com/sgtest/go15vendor/bye"
-	"github.com/sourcegraph/john-test/hi"
 )
 
 func main() {
